@@ -1,38 +1,32 @@
 [
   {
     "name": "Github",
-    "icon": "/images/icon/github.png",
+    "icon": "/images/icon/github.svg",
     "tip": "去 Github 看看",
-    "url": "https://github.com/imsyy"
+    "url": "https://github.com/awhao"
+  },
+  {
+    "name": "语雀",
+    "icon": "/images/icon/yuque.svg",
+    "tip": "去 语雀 看看",
+    "url": "https://www.yuque.com/whao/"
   },
   {
     "name": "BiliBili",
-    "icon": "/images/icon/bilibili.png",
+    "icon": "/images/icon/bilibili.svg",
     "tip": "(゜-゜)つロ 干杯 ~",
-    "url": "https://space.bilibili.com/98544142"
-  },
-  {
-    "name": "QQ",
-    "icon": "/images/icon/qq.png",
-    "tip": "有什么事吗",
-    "url": "https://res.abeim.cn/api/qq/?qq=1539250352"
+    "url": "https://space.bilibili.com/19438904"
   },
   {
     "name": "Email",
-    "icon": "/images/icon/email.png",
+    "icon": "/images/icon/email.svg",
     "tip": "来封 Email ~",
-    "url": "mailto:one@imsyy.top"
+    "url": "mailto:wanghao@awhao.com"
   },
   {
     "name": "Twitter",
-    "icon": "/images/icon/twitter.png",
+    "icon": "/images/icon/twitter.png", 
     "tip": "你懂的 ~",
-    "url": "https://twitter.com/iimmsyy"
-  },
-  {
-    "name": "Telegram",
-    "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
-    "url": "https://t.me/bottom_user"
+    "url": "https://twitter.com/awhao_"
   }
 ]
